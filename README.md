@@ -115,16 +115,15 @@ Suggested repository structure:
 
 ``` text
 SHADOWFOX/
-├── Beginner Level/
-│
-├── Cleaned_Data.xlsx
-├── Dashboard.png
-├── Dashboard.xlsx
-├── KPIs.xlsx
 ├── README.md
-└── Raw_Data.xlsx
 │
-└── README.md
+└── Beginner Level/
+    ├── Cleaned_Data.xlsx
+    ├── Dashboard.png
+    ├── Dashboard.xlsx
+    ├── KPIs.xlsx
+    ├── README.md
+    └── Raw_Data.xlsx
 ```
 
 Add the screenshot folder only if you include dashboard screenshots.
