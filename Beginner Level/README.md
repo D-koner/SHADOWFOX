@@ -150,7 +150,7 @@ redistribution is permitted.
 
 1.  Download `Superstore_Data_Analysis.xlsx`.
 2.  Open it in Microsoft Excel.
-3.  Review the `Data Cleaning Notes` and `Cleaned_Data` worksheets.
+3.  Review the  `Cleaned_Data` worksheet.
 4.  Explore the `KPIs`, PivotTable worksheets, and `Dashboard`.
 5.  Refresh PivotTables after modifying the source data, if necessary.
 
