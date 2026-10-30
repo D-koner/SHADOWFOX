@@ -147,6 +147,8 @@ SHADOWFOX/
     │
     ├── Cleaned_Data.xlsx
     │
+    ├── Dashboard.jpeg
+    │
     ├── Deep Dive.pbix
     │
     ├── Executive Overview.pbix
